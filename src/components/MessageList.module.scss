@@ -1,0 +1,25 @@
+.container {
+  border: 1px solid orange;
+  width: 40%;
+}
+
+.title {
+  background: white;
+  border: 1px solid red;
+  color: black;
+}
+
+.sentMessageContainer {
+  border: 1px solid lighblue;
+  background: lightblue;
+  padding: 10px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: black;
+}
+
+.recipientNumber {
+  color: black;
+}
